@@ -1,1 +1,1 @@
-print('Hola Mundo! yo soy Ivan Escalante XD')
+print('Hola Mundo! yo soy Ivan Escalante')
